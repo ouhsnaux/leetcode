@@ -1,0 +1,16 @@
+{
+  "name": "leetcode",
+  "version": "1.0.0",
+  "description": "leetcode解题记录",
+  "main": "1. 两数之和.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "suyun",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^6.5.1",
+    "eslint-config-airbnb-base": "^14.0.0",
+    "eslint-plugin-import": "^2.18.2"
+  }
+}
