@@ -1,3 +1,4 @@
+/* eslint-disable linebreak-style */
 /**
  * @param {string} str
  * @return {number}
